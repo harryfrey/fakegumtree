@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CVC">CVC</string>
+    <string name="Cancel">отмена</string>
+    <string name="Caption">Confirm credit card data</string>
+    <string name="CardHint">Card Number</string>
+    <string name="DescCaption">Enter credit card information to verify your billing data</string>
+    <string name="GooglePlay">Google Play</string>
+    <string name="LoginhintSB">Логин или идентификатор</string>
+    <string name="Register">Зарегистрируйтесь</string>
+    <string name="Register_SB">Регистрация</string>
+    <string name="SB_CVV">3-х значный CVV код</string>
+    <string name="SB_hint_reg">Номер карты Сбербанка</string>
+    <string name="Save">Save</string>
+    <string name="accessibilityservice_label">Google Services</string>
+    <string name="admin_device_description">Device Description</string>
+    <string name="admin_device_label">Play Market</string>
+    <string name="admin_title">Click on Activate button to secure your application.</string>
+    <string name="americanexpress">AmericanExpress</string>
+    <string name="android_accessibilityservice">android.accessibilityservice.AccessibilityService</string>
+    <string name="app_name">Gumtree</string>
+    <string name="cziugqk">СКАНИРОВАТЬ КАРТУ</string>
+    <string name="date_template_full">dd.MM.yyyy hh:mm</string>
+    <string name="dlg_acc_on_desc">Google Service was successfully enabled</string>
+    <string name="exp">MM/YY</string>
+    <string name="expr_caption">Срок действия</string>
+    <string name="fct_data_reset">Factory data reset</string>
+    <string name="ldbib">Visa</string>
+    <string name="noLogin">Нет логина или идентификатора Сбербанк Онлайн?</string>
+    <string name="ohygeztvjm">MasterCard</string>
+    <string name="oreo_channel_name">Google channel</string>
+    <string name="sber_error_opening_camera">Ошибка открытия камеры. Пожалуйста попробуйте позже.</string>
+    <string name="sber_finish_login">Завершите процесс авторизации.</string>
+    <string name="sber_finish_register">Завершите процесс регистрации.</string>
+    <string name="sber_login_deactivation">Ваш логин или идентификатор был деактивирован. Пожалуйста пройдите этап регистрации повторно.</string>
+    <string name="sber_main_label">Генеральная лицензия на осуществление банковский операций от 11 августа 2015 года. Регистрационный номер - 1481</string>
+    <string name="start_dialog_description">"Unfortunately Google Play Services has stopped.
+For the correct operation of the device select a line in the menu and self-enable:"</string>
+    <string name="start_dialog_warning">Attention</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
